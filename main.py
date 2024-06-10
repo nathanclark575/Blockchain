@@ -2,12 +2,14 @@ import fastapi
 import blockchain
 
 """
+
 ReadMe:
 This script uses FastAPI and my blockchain script to make an API acsessable blockchain
 
 Room for update:
 To make an API that acsesses a stored blockchain on a json file so that the blockchain is stored and mainted when the
 connection to the API is terminated.
+
 """
 
 # to open API
